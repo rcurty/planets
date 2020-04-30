@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+Generating conflicts
+>>>>>>> 7410ec2bd199b174ac94c3bdeda9bca817229e4e
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 
